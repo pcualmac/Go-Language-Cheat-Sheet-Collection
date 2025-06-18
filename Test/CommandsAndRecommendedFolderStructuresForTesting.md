@@ -68,7 +68,7 @@ The `go test` command is the primary tool for running tests in Go.
     
     ```
 
-    # Windows ([LINK](./WindowsGocover.md))
+    For Windows ([LINK](./WindowsGocover.md))
 
 * **Run tests with race detection:**
     ```bash
